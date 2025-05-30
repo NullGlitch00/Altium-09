@@ -1,2 +1,2 @@
-# Altium-09-Proteus
+# Altium-09
 Some projects making by Altium Designer Summer 09
